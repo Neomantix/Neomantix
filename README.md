@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mi nombre es Edgar Sánchez. Actualmente estoy dedicado al estudio de diferentes áreas dentro del mundo de la programación. El objetivo en estos momentos es llegar  a 2027 habiendo adquirido los conocimientos necesarios para poder considerarme un programador fullstack y poder incorporarme al mercado laboral.
+Mi nombre es Edgar Sánchez. Actualmente estoy dedicado al estudio de diferentes áreas dentro del mundo de la programación. El objetivo en estos momentos es llegar  a 2027 habiendo adquirido los conocimientos necesarios para poder considerarme un programador fullstack, y poder así incorporarme al mercado laboral.
