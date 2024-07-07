@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenidos a mi hogar 👋
 
 <!--
 **Neomantix/Neomantix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mi nombre es Edgar Sánchez. Actualmente estoy dedicado al estudio de diferentes áreas dentro del mundo de la programación. El objetivo en estos momentos es llegar  a 2027 habiendo adquirido los conocimientos necesarios para poder considerarme un programador fullstack y poder incorporarme al mercado laboral.
