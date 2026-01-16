@@ -16,21 +16,16 @@
 
 ## Tech stack
 **Frontend**  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="24" height="24" alt="HTML5"/> HTML5 &nbsp;  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="24" height="24" alt="CSS3"/> CSS3 &nbsp;  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sass.svg" width="24" height="24" alt="SASS"/> SASS &nbsp;  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="24" height="24" alt="JavaScript"/> JavaScript
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 **Backend**  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="24" height="24" alt="PHP"/> PHP &nbsp;  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="24" height="24" alt="Laravel"/> Laravel
+
 
 **Databases**  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="24" height="24" alt="MySQL"/> MySQL
+
 
 **Tools**  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="24" height="24" alt="Git"/> Git &nbsp;  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" height="24" alt="GitHub"/> GitHub
+
 
 ---
 
