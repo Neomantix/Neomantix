@@ -15,29 +15,22 @@
 ---
 
 ## Tech stack
-
-Here are the technologies I work with, in **tag-style**:
-
 **Frontend**  
-- 🏷️ HTML5  
-- 🏷️ CSS3 / SASS  
-- 🏷️ JavaScript  
-- 🏷️ React / Vue (adapt to your case)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="24" height="24" alt="HTML5"/> HTML5 &nbsp;  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="24" height="24" alt="CSS3"/> CSS3 &nbsp;  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/sass.svg" width="24" height="24" alt="SASS"/> SASS &nbsp;  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="24" height="24" alt="JavaScript"/> JavaScript
 
 **Backend**  
-- 🏷️ PHP  
-- 🏷️ Laravel / Symfony (if applicable)  
-- 🏷️ Node.js (if applicable)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" width="24" height="24" alt="PHP"/> PHP &nbsp;  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" width="24" height="24" alt="Laravel"/> Laravel
 
 **Databases**  
-- 🏷️ MySQL  
-- 🏷️ SQLite
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="24" height="24" alt="MySQL"/> MySQL
 
 **Tools**  
-- 🏷️ Git  
-- 🏷️ GitHub  
-- 🏷️ VS Code / other IDE  
-- 🏷️ Linux / Windows
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="24" height="24" alt="Git"/> Git &nbsp;  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" height="24" alt="GitHub"/> GitHub
 
 ---
 
