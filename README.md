@@ -1,80 +1,64 @@
-### Bienvenidos a mi hogar 👋
+# 👋 Hi, I'm Edgar Sánchez Rodríguez
 
-<!--
-**Neomantix/Neomantix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Mi nombre es Edgar Sánchez. Actualmente estoy dedicado al estudio de diferentes áreas dentro del mundo de la programación. El objetivo en estos momentos es llegar  a 2027 habiendo adquirido los conocimientos necesarios para poder considerarme un programador fullstack, y poder así incorporarme al mercado laboral.
-# 👋 Hola, soy Nombre Apellido
-
-🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.  
-💻 Próximamente incorporándome al mercado laboral IT como desarrollador web junior.
+🎓 Student of **Web Applications Development (DAW)**.  
+💻 Soon joining the IT job market as a junior web developer.
 
 ---
 
-## Sobre mí
+## About me
 
-- 🌍 Ubicación: Ciudad, País  
-- 🔭 Actualmente aprendiendo: HTML, CSS, JavaScript, PHP, MySQL (y lo que corresponda).  
-- 🎯 Objetivo: Conseguir mi primer puesto como desarrollador **fullstack** / **frontend** / **backend** junior.  
-- 🤝 Abierto a prácticas, becas y primeros empleos en desarrollo web.
+- 🌍 Location: A Coruña, Spain  
+- 🔭 Currently learning: PHP, Laravel, JavaScript, Angular  
+- 🎯 Goal: Get my first position as a **fullstack** / **frontend** / **backend** junior developer  
+- 🤝 Open to internships, trainee roles, and junior web developer positions
 
 ---
 
-## Tecnologías
+## Tech stack
+
+Here are the technologies I work with, in **tag-style**:
 
 **Frontend**  
-- HTML5, CSS3, SASS  
-- JavaScript, (React / Vue / otro si aplica)
+- 🏷️ HTML5  
+- 🏷️ CSS3 / SASS  
+- 🏷️ JavaScript  
+- 🏷️ React / Vue (adapt to your case)
 
 **Backend**  
-- PHP, (Laravel / Symfony si aplica)  
-- Node.js (si aplica)
+- 🏷️ PHP  
+- 🏷️ Laravel / Symfony (if applicable)  
+- 🏷️ Node.js (if applicable)
 
-**Bases de datos**  
-- MySQL, SQLite
+**Databases**  
+- 🏷️ MySQL  
+- 🏷️ SQLite
 
-**Herramientas**  
-- Git, GitHub  
-- VS Code / otro IDE  
-- Linux / Windows
-
----
-
-## Proyectos destacados
-
-- 🔹 **Nombre del proyecto 1** – Breve descripción (por ejemplo, “Aplicación web de gestión de tareas con login y CRUD completo”).  
-  - Tecnologías: HTML, CSS, JS, PHP, MySQL  
-  - Repo: [enlace al repositorio](https://github.com/tuusuario/tu-repo)
-
-- 🔹 **Nombre del proyecto 2** – Breve descripción.  
-  - Tecnologías: ...  
-  - Repo: [enlace al repositorio](https://github.com/tuusuario/tu-otro-repo)
-
-*(Añade 2–4 proyectos que te representen bien).*
+**Tools**  
+- 🏷️ Git  
+- 🏷️ GitHub  
+- 🏷️ VS Code / other IDE  
+- 🏷️ Linux / Windows
 
 ---
 
-## Formación
+## Featured projects
 
-- 🎓 **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
-  Centro, Ciudad – Año inicio – Año fin (o “En curso”).
+- Building ...
 
 ---
 
-## Contacto
+## Education
 
-- 📧 Email: tuemail@ejemplo.com  
-- 💼 LinkedIn: [tu-perfil](https://www.linkedin.com/in/tu-perfil)  
-- 🌐 Portafolio / Web personal: [tu-dominio](https://tudominio.com) (si tienes)
+- 🎓 **Higher Technical Degree in Web Applications Development (DAW)**  
+  CIFP Rodolfo Ucha, Ferrol – 2024 – In progress.
+- 🎓 **IFCD0210 - Technologies for Web applications development**  
+  Finances School, S.L, A Coruña – 2024
+- 🎓 **IFCT0609 - Computer systems programming**  
+  Fundación Nortempo, A Coruña – 2023 – 2024
+---
+
+## Contact
+
+- 📧 Email: neomantix@protonmail.com  
+- 💼 LinkedIn: in progress...
+- 🌐 Portfolio / Personal website: in progress...
